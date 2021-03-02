@@ -1,0 +1,88 @@
+2021-03-02 21:14:25 [32m[INFO] (B[mReading properties from deploy.properties
+2021-03-02 21:14:25 [32m[INFO](B[m Load HOSTNAME=localhost
+2021-03-02 21:14:25 [32m[INFO](B[m Load BASE_PATH_SCRIPT=/ear/deploy-manager/config
+2021-03-02 21:14:25 [32m[INFO](B[m Load DEPLOY_LOGPATH=/ear/deploy-manager/logs
+2021-03-02 21:14:25 [32m[INFO](B[m Load WS_ADMIN_USR=wsadmin
+2021-03-02 21:14:25 [32m[INFO](B[m Load WS_ADMIN_PASS=*******
+2021-03-02 21:14:25 [32m[INFO](B[m /ear is a directory
+
+2021-03-02 21:14:25 [32m[INFO](B[m Ear presenti:(B[m
+
+OnespanServletEAR.ear
+bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+2021-03-02 21:14:28 [32m[INFO](B[m Try to install OnespanServletEAR.ear
+[32m[INFO](B[m Searching for Jython script for OnespanServletEAR.ear
+[32m[INFO](B[m configurazione trovata al path /ear/deploy-manager/config/OnespanServletEAR.py
+2021-03-02 21:14:28 [32m[INFO](B[m Esecuzione del deploy di /ear/deploy-manager/config/OnespanServletEAR.py
+2021-03-02 21:14:28 [32m[INFO](B[m Lancio di wsadmin
+2021-03-02 21:14:41 [32m[INFO](B[m End wsadmin execution for OnespanServletEAR.ear 
+2021-03-02 21:14:41 [32m[INFO](B[m Try to install bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+[32m[INFO](B[m Searching for Jython script for bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+[32m[INFO](B[m configurazione trovata al path /ear/deploy-manager/config/bper-sec-services-ear.py
+2021-03-02 21:14:41 [32m[INFO](B[m Esecuzione del deploy di /ear/deploy-manager/config/bper-sec-services-ear.py
+2021-03-02 21:14:41 [32m[INFO](B[m Lancio di wsadmin
+2021-03-02 21:15:53 [32m[INFO] (B[mReading properties from deploy.properties
+2021-03-02 21:15:53 [32m[INFO](B[m Load HOSTNAME=localhost
+2021-03-02 21:15:53 [32m[INFO](B[m Load BASE_PATH_SCRIPT=/ear/deploy-manager/config
+2021-03-02 21:15:53 [32m[INFO](B[m Load DEPLOY_LOGPATH=/ear/deploy-manager/logs
+2021-03-02 21:15:53 [32m[INFO](B[m Load WS_ADMIN_USR=wsadmin
+2021-03-02 21:15:53 [32m[INFO](B[m Load WS_ADMIN_PASS=*******
+2021-03-02 21:15:53 [32m[INFO](B[m /ear is a directory
+
+2021-03-02 21:15:53 [32m[INFO](B[m Ear presenti:(B[m
+
+OnespanServletEAR.ear
+bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+2021-03-02 21:15:56 [32m[INFO](B[m Try to install OnespanServletEAR.ear
+[32m[INFO](B[m Searching for Jython script for OnespanServletEAR.ear
+[32m[INFO](B[m configurazione trovata al path /ear/deploy-manager/config/OnespanServletEAR.py
+2021-03-02 21:15:56 [32m[INFO](B[m Esecuzione del deploy di /ear/deploy-manager/config/OnespanServletEAR.py
+2021-03-02 21:15:56 [32m[INFO](B[m Lancio di wsadmin
+2021-03-02 21:16:06 [32m[INFO](B[m End wsadmin execution for OnespanServletEAR.ear 
+2021-03-02 21:16:06 [32m[INFO](B[m Try to install bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+[32m[INFO](B[m Searching for Jython script for bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+[32m[INFO](B[m configurazione trovata al path /ear/deploy-manager/config/bper-sec-services-ear.py
+2021-03-02 21:16:06 [32m[INFO](B[m Esecuzione del deploy di /ear/deploy-manager/config/bper-sec-services-ear.py
+2021-03-02 21:16:06 [32m[INFO](B[m Lancio di wsadmin
+2021-03-02 21:17:34 [32m[INFO] (B[mReading properties from deploy.properties
+2021-03-02 21:17:34 [32m[INFO](B[m Load HOSTNAME=localhost
+2021-03-02 21:17:34 [32m[INFO](B[m Load BASE_PATH_SCRIPT=/ear/smart-deploy/config
+2021-03-02 21:17:34 [32m[INFO](B[m Load DEPLOY_LOGPATH=/ear/smart-deploy/logs
+2021-03-02 21:17:34 [32m[INFO](B[m Load WS_ADMIN_USR=wsadmin
+2021-03-02 21:17:34 [32m[INFO](B[m Load WS_ADMIN_PASS=*******
+2021-03-02 21:17:34 [32m[INFO](B[m /ear is a directory
+
+2021-03-02 21:17:34 [32m[INFO](B[m Ear presenti:(B[m
+
+OnespanServletEAR.ear
+bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+2021-03-02 21:17:36 [32m[INFO](B[m Try to install OnespanServletEAR.ear
+[32m[INFO](B[m Searching for Jython script for OnespanServletEAR.ear
+[32m[INFO](B[m configurazione trovata al path /ear/smart-deploy/config/OnespanServletEAR.py
+2021-03-02 21:17:36 [32m[INFO](B[m Esecuzione del deploy di /ear/smart-deploy/config/OnespanServletEAR.py
+2021-03-02 21:17:36 [32m[INFO](B[m Lancio di wsadmin
+2021-03-02 21:17:46 [32m[INFO](B[m End wsadmin execution for OnespanServletEAR.ear 
+2021-03-02 21:17:46 [32m[INFO](B[m Try to install bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+[32m[INFO](B[m Searching for Jython script for bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+19067(date '+%Y-%m-%d %H:%M:%S') {red}[ERROR] (B[m Jython script for deploy not found
+2021-03-02 22:49:42 [32m[INFO] (B[mReading properties from deploy.properties
+2021-03-02 22:49:42 [32m[INFO](B[m Load HOSTNAME=localhost
+2021-03-02 22:49:42 [32m[INFO](B[m Load BASE_PATH_SCRIPT=/ear/smart-deploy/config
+2021-03-02 22:49:42 [32m[INFO](B[m Load DEPLOY_LOGPATH=/ear/smart-deploy/logs
+2021-03-02 22:49:42 [32m[INFO](B[m Load WS_ADMIN_USR=wsadmin
+2021-03-02 22:49:42 [32m[INFO](B[m Load WS_ADMIN_PASS=*******
+2021-03-02 22:49:42 [32m[INFO](B[m /ear is a directory
+
+2021-03-02 22:49:42 [32m[INFO](B[m Ear presenti:(B[m
+
+OnespanServletEAR.ear
+bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+2021-03-02 22:49:43 [32m[INFO](B[m Try to install OnespanServletEAR.ear
+[32m[INFO](B[m Searching for Jython script for OnespanServletEAR.ear
+[32m[INFO](B[m configurazione trovata al path /ear/smart-deploy/config/OnespanServletEAR.py
+2021-03-02 22:49:43 [32m[INFO](B[m Esecuzione del deploy di /ear/smart-deploy/config/OnespanServletEAR.py
+2021-03-02 22:49:43 [32m[INFO](B[m Lancio di wsadmin
+2021-03-02 22:49:53 [32m[INFO](B[m End wsadmin execution for OnespanServletEAR.ear 
+2021-03-02 22:49:53 [32m[INFO](B[m Try to install bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+[32m[INFO](B[m Searching for Jython script for bper-sec-services-ear-1.0.0_RIBA_GAP.ear
+21187(date '+%Y-%m-%d %H:%M:%S') {red}[ERROR] (B[m Jython script for deploy not found

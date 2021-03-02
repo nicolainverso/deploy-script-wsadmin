@@ -1,0 +1,4 @@
+21:17:34|localhost| Smart deploy lanciato da
+21:17:36|localhost| Try to install /ear/OnespanServletEAR.ear with script /ear/smart-deploy/config/OnespanServletEAR.py
+22:49:42|localhost| Smart deploy lanciato da
+22:49:43|localhost| Try to install /ear/OnespanServletEAR.ear with script /ear/smart-deploy/config/OnespanServletEAR.py

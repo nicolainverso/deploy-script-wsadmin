@@ -1,0 +1,26 @@
+17:40:31|localhost| Smart deploy lanciato da
+17:40:33|localhost| Try to install /ear/OnespanServletEAR.ear with script /ear/deploy-manager/config/OnespanServletEAR.py
+[OnespanServletEAR.py][INFO]Update start[OnespanServletEAR.py][INFO]Save config start[OnespanServletEAR.py][INFO]Wait to start============================
+ Status |    Application    
+============================
+OnespanServletEAR | Running
+============================
+17:40:57|localhost| Try to install /ear/bper-sec-services-ear-1.0.0_RIBA_GAP.ear with script /ear/deploy-manager/config/bper-sec-services.py
+18:14:29|localhost| Smart deploy lanciato da
+18:14:31|localhost| Try to install /ear/OnespanServletEAR.ear with script /ear/deploy-manager/config/OnespanServletEAR.py
+18:14:41|localhost| Try to install /ear/bper-sec-services-ear-1.0.0_RIBA_GAP.ear with script /ear/deploy-manager/config/bper-sec-services.py
+18:16:58|localhost| Smart deploy lanciato da
+18:16:59|localhost| Try to install /ear/OnespanServletEAR.ear with script /ear/deploy-manager/config/OnespanServletEAR.py
+[OnespanServletEAR.py][INFO]==============
+[OnespanServletEAR.py][INFO]Start
+[OnespanServletEAR.py][INFO]==============
+[OnespanServletEAR.py][INFO]Updating OnespanServletEAR...
+[OnespanServletEAR.py][ERROR]Failed
+18:17:09|localhost| Try to install /ear/bper-sec-services-ear-1.0.0_RIBA_GAP.ear with script /ear/deploy-manager/config/bper-sec-services.py
+18:20:25|localhost| Smart deploy lanciato da
+18:20:26|localhost| Try to install /ear/OnespanServletEAR.ear with script /ear/deploy-manager/config/OnespanServletEAR.py
+[OnespanServletEAR.py][INFO]==============
+[OnespanServletEAR.py][INFO]Start Routine
+[OnespanServletEAR.py][INFO]==============
+[OnespanServletEAR.py][INFO]Updating OnespanServletEAR...
+18:20:36|localhost| Try to install /ear/bper-sec-services-ear-1.0.0_RIBA_GAP.ear with script /ear/deploy-manager/config/bper-sec-services.py

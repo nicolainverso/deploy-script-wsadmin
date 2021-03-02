@@ -1,0 +1,4 @@
+21:14:25|localhost| Load WS_ADMIN_PATH=/opt/IBM/WebSphere/AppServer/profiles/AppSrv01/bin/wsadmin.sh
+21:15:53|localhost| Load WS_ADMIN_PATH=/opt/IBM/WebSphere/AppServer/profiles/AppSrv01/bin/wsadmin.sh
+21:17:34|localhost| Load WS_ADMIN_PATH=/opt/IBM/WebSphere/AppServer/profiles/AppSrv01/bin/wsadmin.sh
+22:49:42|localhost| Load WS_ADMIN_PATH=/opt/IBM/WebSphere/AppServer/profiles/AppSrv01/bin/wsadmin.sh
