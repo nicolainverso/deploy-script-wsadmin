@@ -4,13 +4,11 @@ import time
 #-------------------------------
 # Global definition
 #-------------------------------
-scriptName="bper-tpp-services-earws.py"    #nome script eseguito
-applicationName='bper-tpp-services-earws'  #nome applicazione
+scriptName="bper-arch-srv-allejbs-ear.py"    #nome script eseguito
+applicationName='bper-arch-srv-allejbs-ear '  #nome applicazione
 timeToWaitStartup=5                  #tempo di attesa per verificare lo startup (secondi)
 maxRetry=5                           #massimo numero di tentativi di osservazione dello startup        
 #-------------------------------
-
-
 
 earPath=sys.argv[0]                  #path ear da installare
 logFileName=sys.argv[1]              #nome file dove loggare 

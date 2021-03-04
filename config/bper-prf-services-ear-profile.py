@@ -2,17 +2,24 @@ import sys
 import time
 
 #-------------------------------
-# Global definition
+# Da modificare
 #-------------------------------
 
-earPath=sys.argv[0]                  #path ear da installare
-logFileName=sys.argv[1]              #nome file dove loggare 
-scriptName="bper-prf-services-ear-pv.py"    #nome script eseguito
-applicationName='bper-prf-services-ear-pv'  #nome applicazione
+scriptName="bper-prf-services-ear-profile.py"    #nome script eseguito
+applicationName='bper-prf-services-ear-profile'  #nome applicazione
 timeToWaitStartup=5                  #tempo di attesa per verificare lo startup (secondi)
 maxRetry=5                           #massimo numero di tentativi di osservazione dello startup        
-
+#-------------------------------
    
+   
+   
+#-------------------------------
+# Global definition
+#-------------------------------
+   
+earPath=sys.argv[0]                  #path ear da installare
+logFileName=sys.argv[1]              #nome file dove loggare 
+
 def waitAppStart(appName):
     count = 0    
     while AdminApp.isAppReady(appName) and count < maxRetry:
@@ -38,7 +45,7 @@ def main():
    #AdminApp.update('OnespanServletEAR', 'app', '[  -operation update -contents ' +earPath+'  -nopreCompileJSPs -installed.ear.destination $(APP_INSTALL_ROOT)/DefaultCell01 -distributeApp -nouseMetaDataFromBinary -nodeployejb -createMBeansForResources -noreloadEnabled -nodeployws -validateinstall warn -noprocessEmbeddedConfig -filepermission .*\.dll=755#.*\.so=755#.*\.a=755#.*\.sl=755 -noallowDispatchRemoteInclude -noallowServiceRemoteInclude -asyncRequestDispatchType DISABLED -nouseAutoLink -noenableClientModule -clientMode isolated -novalidateSchema -update.ignore.new -MapModulesToServers [[ EnrollmentServlet EnrollmentServlett.war,WEB-INF/web.xml WebSphere:cell=DefaultCell01,node=DefaultNode01,server=server1 ]]]' )
    try:
        writeLog("INFO","Updating "+applicationName+"...")
-       AdminApp.update("blelbalba", 'app', '[-operation update -contents ' + earPath +']')
+       AdminApp.update(applicationName, 'app', '[-operation update -contents ' + earPath +']')
        writeLog("INFO","Saving "+applicationName+"...")
        AdminConfig.save()
        writeLog("INFO","Starting")
